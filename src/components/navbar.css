@@ -1,0 +1,37 @@
+.navbar {
+  width: 100%;
+  height: 80px;
+  background-color: rgb(18, 18, 18);
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.links {
+  margin-right: 150px;
+  display: flex;
+  align-items: center;
+}
+.card{
+  font-size: 32px;
+  margin-left: 37em;
+  color: rgb(227, 110, 52);
+  position: absolute;
+}
+.log-sig{
+  position: absolute;
+  color: rgb(229, 223, 223);
+  margin-left: 67rem;
+  font-size: 0.8em;
+}
+.links a {
+  text-decoration: none;
+  color: rgb(52, 184, 227);
+  margin-left: 20px;
+  font-size: 25px;
+}
+.user{
+  color: antiquewhite;
+margin-left: 48%;
+position: absolute;
+}
